@@ -1,0 +1,32 @@
+{
+    "componentId": "616vctk98ci",
+    "componentName": "div",
+    "props": {},
+    "children": [
+        {
+            "componentId": "qrklmg8260j",
+            "componentName": "Card",
+            "props": {
+                "extra": "extra"
+            },
+            "children": [
+                {
+                    "slotName": "default",
+                    "componentId": "qr34551efr",
+                    "componentName": "Input",
+                    "props": {
+                        "placeholder": "please input"
+                    }
+                },
+                {
+                    "slotName": "title",
+                    "componentId": "qr345367efr",
+                    "componentName": "div",
+                    "props": {
+                        "content": "Card Title"
+                    }
+                }
+            ]
+        }
+    ]
+}
